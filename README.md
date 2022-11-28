@@ -15,8 +15,6 @@ This will upload the script to DigiSpark's storage and now it is ready to be use
 
 Now you can plug the microcontroller in and it will start executing commands.
 
-Now you can plug the microcontroller in and it will start executing commands.
-
 ## 🦾 Protection
 
 ***How do I protect myself from these attacks?***
