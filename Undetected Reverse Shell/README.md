@@ -19,6 +19,13 @@ This DigiSpark script gives you access to a system through a reverse connection 
 
 3- The payload is not stored on the system so the victim can't trace back any details about the attack such as the server hosting the payload.
 
+## 🔧 Requirements 
+
+* DigiSpark ATTiny85 Microcontroller.
+* Arduino IDE with [necessary modules](http://digistump.com/wiki/digispark/tutorials/connecting).
+* A Powershell reverse TCP payload. (I use and prefer a [hoaxshell](https://github.com/t3l3machus/hoaxshell) payload.)
+* A server hosting your payload. Use can you [Python](https://www.python.org/) for private network attacks and [Ngrok](https://ngrok.com/) for public network attacks.
+
 ## 💻 Tested On
 
 This works on : Windows 10 and Windows 11.
